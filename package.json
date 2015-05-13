@@ -1,0 +1,18 @@
+{
+  "name": "toybox",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "coffee-script": "^1.9.2",
+    "nobone": "^1.5.7",
+    "stylus": "^0.51.1"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.2"
+  },
+  "scripts": {
+    "no": "no"
+  },
+  "author": "http://ysmood.org",
+  "license": "ISC"
+}
